@@ -4,5 +4,5 @@
 
 - 🌱 I’m currently a backend engineer
 
-[leetcode - AhmedRza](https://leetcode.com/AhmedRza/)
+
 
