@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedrzakhan" alt="ahmedrzakhan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ahmedrzkhan" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedrzkhan?logo=twitter&style=for-the-badge" alt="ahmedrzkhan" /></a> </p>
-
 - 📫 How to reach me **khanahmed925@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1NBlu6s5Rns8gA2DU8eIx5fwytC0aK550](https://drive.google.com/drive/folders/1NBlu6s5Rns8gA2DU8eIx5fwytC0aK550)
