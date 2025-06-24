@@ -109,8 +109,8 @@ me.say_hi()
     <td width="50%">
       <h3 align="center">🤖 AI Content Recommender</h3>
       <div align="center">
-        <a href="https://github.com/ahmedrzakhan/ai-content-recommender" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=ai-content-recommender&theme=tokyonight&hide_border=true" alt="AI Content Recommender"/>
+        <a href="https://github.com/ahmedrzakhan/keyword-based-content-recommender" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=keyword-based-content-recommender&theme=tokyonight&hide_border=true" alt="AI Content Recommender"/>
         </a>
         <br><br>
         <p>
@@ -141,8 +141,8 @@ me.say_hi()
     <td width="50%">
       <h3 align="center">🔍 RAFT Documentation Generator</h3>
       <div align="center">
-        <a href="https://github.com/ahmedrzakhan/raft-code-documentation" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=raft-code-documentation&theme=tokyonight&hide_border=true" alt="RAFT Documentation Generator"/>
+        <a href="https://github.com/ahmedrzakhan/RAFT-code-docs" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=RAFT-code-docs&theme=tokyonight&hide_border=true" alt="RAFT Documentation Generator"/>
         </a>
         <br><br>
         <p>
