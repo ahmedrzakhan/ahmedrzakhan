@@ -146,6 +146,7 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects
 
+
 <table>
   <tr>
     <td width="50%">
@@ -164,37 +165,22 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🎨 Modern Portfolio Website</h3>
+      <h3 align="center">📄 Article Summary Generator</h3>
       <div align="center">
-        <a href="https://github.com/ahmedrzakhan/portfolio" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Website"/>
+        <a href="https://github.com/ahmedrzakhan/article-summary-generator" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=article-summary-generator&theme=tokyonight&hide_border=true" alt="Article Summary Generator"/>
         </a>
         <br><br>
         <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google&logoColor=white" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+          <img src="https://img.shields.io/badge/LangSmith-121212?style=flat&logo=chainlink&logoColor=white" />
         </p>
-        <p><strong>Responsive Portfolio</strong> with dark mode, animations, and optimized performance. Features project showcase and blog integration.</p>
+        <p><strong>Intelligent Summarization</strong> with multiple length options. Real-time processing with async architecture and production monitoring.</p>
       </div>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">📱 React Native Finance App</h3>
-      <div align="center">
-        <a href="https://github.com/ahmedrzakhan/finance-tracker" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=finance-tracker&theme=tokyonight&hide_border=true" alt="Finance Tracker App"/>
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        </p>
-        <p><strong>Islamic Finance Tracker</strong> with Shariah-compliant features. Real-time sync across devices with secure authentication.</p>
-      </div>
-    </td>
     <td width="50%">
       <h3 align="center">🔍 RAFT Documentation Generator</h3>
       <div align="center">
@@ -205,13 +191,11 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
         <p>
           <img src="https://img.shields.io/badge/T5--small-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
           <img src="https://img.shields.io/badge/CodeBERT-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+          <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
         </p>
         <p><strong>Retrieval-Augmented Fine-Tuning</strong> for automated code documentation. CPU-optimized training for accessibility.</p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">💬 AI FAQ Bot</h3>
       <div align="center">
@@ -227,23 +211,9 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
         <p><strong>Multi-AI Architecture</strong> with intelligent fallback. RAG implementation for accurate customer support responses.</p>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">📊 Analytics Dashboard</h3>
-      <div align="center">
-        <a href="https://github.com/ahmedrzakhan/analytics-dashboard" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=analytics-dashboard&theme=tokyonight&hide_border=true" alt="Analytics Dashboard"/>
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/D3.js-F68212?style=flat&logo=d3.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" />
-        </p>
-        <p><strong>Real-time Analytics</strong> with interactive charts and data visualization. WebSocket integration for live updates.</p>
-      </div>
-    </td>
   </tr>
 </table>
+
 
 <p align="center">
   <a href="https://github.com/ahmedrzakhan?tab=repositories" target="_blank">
