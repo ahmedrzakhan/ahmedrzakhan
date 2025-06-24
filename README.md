@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Engineer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Backend+%26+Frontend+Expert+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
   
   <p align="center">
     <a href="https://ahmdrz.com"><img src="https://img.shields.io/badge/-ahmdrz.com-000000?style=flat&logo=About.me&logoColor=white"/></a>
@@ -20,49 +20,66 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> About Me
 
-I'm a passionate **Backend Engineer** specializing in **AI-powered applications** and **scalable web services**. I transform complex problems into elegant solutions by leveraging cutting-edge AI technologies.
+I'm a passionate **Full-Stack Engineer** specializing in **AI-powered applications**, **modern web interfaces**, and **scalable backend services**. I bridge the gap between intelligent backend systems and intuitive user experiences.
 
 <p align="center">
   <a href="https://ahmdrz.com"><img src="https://img.shields.io/badge/🌐_ahmdrz.com-000000?style=for-the-badge&logoColor=white" /></a>
   <a href="https://ahmedrzakhan.github.io/"><img src="https://img.shields.io/badge/📁_Portfolio-FF7139?style=for-the-badge&logoColor=white" /></a>
 </p>
 
-```python
-class BackendEngineer:
-    def __init__(self):
-        self.name = "Ahmed Raza Khan"
-        self.role = "Backend Engineer"
-        self.location = "Building the future 🌍"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+```typescript
+interface FullStackEngineer {
+  name: string;
+  role: string[];
+  location: string;
+  stack: {
+    frontend: string[];
+    backend: string[];
+    ai: string[];
+  };
+}
 
-me = BackendEngineer()
-me.say_hi()
+const me: FullStackEngineer = {
+  name: "Ahmed Raza Khan",
+  role: ["Full-Stack Engineer", "AI/ML Enthusiast"],
+  location: "Building the future 🌍",
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Python", "FastAPI", "Node.js", "Go"],
+    ai: ["LangChain", "OpenAI", "ChromaDB", "HuggingFace"]
+  }
+};
+
+console.log("Thanks for dropping by! Let's build something amazing together 🚀");
 ```
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I'm up to
 
 - 🔭 Working on **AI-powered content recommendation systems** with advanced RAG architectures
+- 🎨 Building **responsive, accessible UI components** with React and Next.js
 - 🌱 Deep diving into **RAFT methodology** and **Multi-modal AI systems**
-- 💡 Building **semantic search engines** that understand context, not just keywords
-- 🎯 Mission: Creating intelligent systems that enhance human experiences
-- 📚 Reading: "Designing Data-Intensive Applications" by Martin Kleppmann
+- 💡 Creating **semantic search engines** with intuitive user interfaces
+- 🎯 Mission: Crafting full-stack solutions that delight users and solve real problems
+- 📚 Reading: "Designing Data-Intensive Applications" & "Refactoring UI"
 
 <br clear="right"/>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Tech Arsenal
 
 <details open>
-<summary><b>🤖 AI/ML Technologies</b></summary>
+<summary><b>🎨 Frontend Development</b></summary>
 <br>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
@@ -76,6 +93,20 @@ me.say_hi()
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML Technologies</b></summary>
+<br>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude-7B61FF?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </details>
 
@@ -95,10 +126,21 @@ me.say_hi()
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🧪 Testing & Tools</b></summary>
+<br>
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 </details>
 
@@ -122,22 +164,37 @@ me.say_hi()
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📄 Article Summary Generator</h3>
+      <h3 align="center">🎨 Modern Portfolio Website</h3>
       <div align="center">
-        <a href="https://github.com/ahmedrzakhan/article-summary-generator" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=article-summary-generator&theme=tokyonight&hide_border=true" alt="Article Summary Generator"/>
+        <a href="https://github.com/ahmedrzakhan/portfolio" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Website"/>
         </a>
         <br><br>
         <p>
-          <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google&logoColor=white" />
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-          <img src="https://img.shields.io/badge/LangSmith-121212?style=flat&logo=chainlink&logoColor=white" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
         </p>
-        <p><strong>Intelligent Summarization</strong> with multiple length options. Real-time processing with async architecture and production monitoring.</p>
+        <p><strong>Responsive Portfolio</strong> with dark mode, animations, and optimized performance. Features project showcase and blog integration.</p>
       </div>
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3 align="center">📱 React Native Finance App</h3>
+      <div align="center">
+        <a href="https://github.com/ahmedrzakhan/finance-tracker" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=finance-tracker&theme=tokyonight&hide_border=true" alt="Finance Tracker App"/>
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        </p>
+        <p><strong>Islamic Finance Tracker</strong> with Shariah-compliant features. Real-time sync across devices with secure authentication.</p>
+      </div>
+    </td>
     <td width="50%">
       <h3 align="center">🔍 RAFT Documentation Generator</h3>
       <div align="center">
@@ -148,11 +205,13 @@ me.say_hi()
         <p>
           <img src="https://img.shields.io/badge/T5--small-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
           <img src="https://img.shields.io/badge/CodeBERT-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-          <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
         </p>
         <p><strong>Retrieval-Augmented Fine-Tuning</strong> for automated code documentation. CPU-optimized training for accessibility.</p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">💬 AI FAQ Bot</h3>
       <div align="center">
@@ -166,6 +225,21 @@ me.say_hi()
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
         </p>
         <p><strong>Multi-AI Architecture</strong> with intelligent fallback. RAG implementation for accurate customer support responses.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 Analytics Dashboard</h3>
+      <div align="center">
+        <a href="https://github.com/ahmedrzakhan/analytics-dashboard" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=analytics-dashboard&theme=tokyonight&hide_border=true" alt="Analytics Dashboard"/>
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/D3.js-F68212?style=flat&logo=d3.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+        </p>
+        <p><strong>Real-time Analytics</strong> with interactive charts and data visualization. WebSocket integration for live updates.</p>
       </div>
     </td>
   </tr>
@@ -202,13 +276,6 @@ me.say_hi()
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ahmedrzakhan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%" />
 </p>
-
-### 🎯 2025 Goals
-- [ ] Contribute to 5+ open-source AI/ML projects
-- [ ] Build a production-ready Multi-Agent System
-- [ ] Master Kubernetes and achieve CKA certification
-- [ ] Launch an AI SaaS product
-- [ ] Write technical blog posts on Medium
 
 ## 💡 A Random Dev Quote
 
