@@ -212,6 +212,23 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
       </div>
     </td>
   </tr>
+<tr>
+<td width="50%">
+  <h3 align="center">✍️ AI Writing Prompt Generator</h3>
+  <div align="center">
+    <a href="https://github.com/ahmedrzakhan/ai-writing-prompt-generator" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=ai-writing-prompt-generator&theme=tokyonight&hide_border=true" alt="AI Writing Prompt Generator"/>
+    </a>
+    <br><br>
+    <p>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+    </p>
+    <p><strong>Creative Writing Assistant</strong> with customizable prompts across genres. Features prompt library, search/filter, and export functionality with fallback mechanisms.</p>
+  </div>
+</td>
+</tr>
 </table>
 
 
