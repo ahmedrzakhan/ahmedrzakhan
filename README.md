@@ -156,9 +156,9 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
         </a>
         <br><br>
         <p>
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-          <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=database&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white" />
+          <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+          <img src="https://img.shields.io/badge/Agentic_AI-9333EA?style=flat&logo=ai&logoColor=white" />
         </p>
         <p><strong>Agentic research assistant powered by LangGraph</strong> and MCP (Model Context Protocol) that autonomously plans, investigates, and synthesizes research on any topic</p>
       </div>
