@@ -150,6 +150,38 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">💬 AI FAQ Bot</h3>
+      <div align="center">
+        <a href="https://github.com/ahmedrzakhan/ai-faq-bot" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=ai-faq-bot&theme=tokyonight&hide_border=true" alt="AI FAQ Bot"/>
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=database&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        </p>
+        <p><strong>Multi-AI RAG system</strong> with LLM-powered responses and intelligent fallback using OpenAI and Google Gemini APIs, containerized with Docker and comprehensive LangSmith monitoring
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💬 AI FAQ Bot</h3>
+      <div align="center">
+        <a href="https://github.com/ahmedrzakhan/ai-faq-bot" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=ai-faq-bot&theme=tokyonight&hide_border=true" alt="AI FAQ Bot"/>
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=database&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        </p>
+        <p><strong>Multi-AI RAG system</strong> with LLM-powered responses and intelligent fallback using OpenAI and Google Gemini APIs, containerized with Docker and comprehensive LangSmith monitoring
+      </div>
+    </td>
+    </tr>
+    <tr>
+    <td width="50%">
       <h3 align="center">🤖 AI Content Recommender</h3>
       <div align="center">
         <a href="https://github.com/ahmedrzakhan/keyword-based-content-recommender" target="_blank">
@@ -196,23 +228,6 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
         <p><strong>Retrieval-Augmented Fine-Tuning</strong> for automated code documentation. CPU-optimized training for accessibility.</p>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">💬 AI FAQ Bot</h3>
-      <div align="center">
-        <a href="https://github.com/ahmedrzakhan/ai-faq-bot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=ai-faq-bot&theme=tokyonight&hide_border=true" alt="AI FAQ Bot"/>
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-          <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=database&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-        </p>
-        <p><strong>Multi-AI Architecture</strong> with intelligent fallback. RAG implementation for accurate customer support responses.</p>
-      </div>
-    </td>
-  </tr>
-<tr>
 <td width="50%">
   <h3 align="center">✍️ AI Writing Prompt Generator</h3>
   <div align="center">
