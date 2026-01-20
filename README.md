@@ -150,10 +150,10 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💬 AI FAQ Bot</h3>
+      <h3 align="center">💬 </h3>
       <div align="center">
-        <a href="https://github.com/ahmedrzakhan/ai-faq-bot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=ai-faq-bot&theme=tokyonight&hide_border=true" alt="AI FAQ Bot"/>
+        <a href="https://github.com/ahmedrzakhan/MCP-Agentic-Research" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=MCP-Agentic-Research&theme=tokyonight&hide_border=true" alt="AI FAQ Bot"/>
         </a>
         <br><br>
         <p>
@@ -161,7 +161,7 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
           <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=database&logoColor=white" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
         </p>
-        <p><strong>Multi-AI RAG system</strong> with LLM-powered responses and intelligent fallback using OpenAI and Google Gemini APIs, containerized with Docker and comprehensive LangSmith monitoring
+        <p><strong>Agentic research assistant powered by LangGraph</strong> and MCP (Model Context Protocol) that autonomously plans, investigates, and synthesizes research on any topic
       </div>
     </td>
     <td width="50%">
