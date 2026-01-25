@@ -143,11 +143,25 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 </details>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects
 
 <table>
   <tr>
+    <td width="50%">
+      <h3 align="center">🏦 Agentic Loan Workflow</h3>
+      <div align="center">
+        <a href="https://github.com/ahmedrzakhan/Agentic-Loan-Workflow" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=Agentic-Loan-Workflow&theme=tokyonight&hide_border=true" alt="Agentic Loan Workflow"/>
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/Mastra.ai-6366F1?style=flat&logo=ai&logoColor=white" />
+          <img src="https://img.shields.io/badge/Agentic_AI-9333EA?style=flat&logo=ai&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        </p>
+        <p><strong>Autonomous loan processing agent</strong> built with Mastra.ai featuring dynamic routing, self-healing retries, human-in-the-loop escalation, and checkpoint-based state persistence.</p>
+      </div>
+    </td>
     <td width="50%">
       <h3 align="center">🔍 MCP-Agentic-Research</h3>
       <div align="center">
@@ -163,6 +177,8 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
         <p><strong>Agentic research assistant powered by LangGraph</strong> and MCP (Model Context Protocol) that autonomously plans, investigates, and synthesizes research on any topic</p>
       </div>
     </td>
+    </tr>
+    <tr>
     <td width="50%">
       <h3 align="center">💬 AI FAQ Bot</h3>
       <div align="center">
@@ -178,8 +194,6 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
         <p><strong>Multi-AI RAG system</strong> with LLM-powered responses and intelligent fallback using OpenAI and Google Gemini APIs, containerized with Docker and comprehensive LangSmith monitoring
       </div>
     </td>
-    </tr>
-    <tr>
     <td width="50%">
       <h3 align="center">🤖 AI Content Recommender</h3>
       <div align="center">
@@ -193,21 +207,6 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
           <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white" />
         </p>
         <p><strong>Semantic Search Engine</strong> with vector embeddings for intelligent content discovery. Features real-time analytics and 80+ sample content across multiple domains.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📄 Article Summary Generator</h3>
-      <div align="center">
-        <a href="https://github.com/ahmedrzakhan/article-summary-generator" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=article-summary-generator&theme=tokyonight&hide_border=true" alt="Article Summary Generator"/>
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google&logoColor=white" />
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-          <img src="https://img.shields.io/badge/LangSmith-121212?style=flat&logo=chainlink&logoColor=white" />
-        </p>
-        <p><strong>Intelligent Summarization</strong> with multiple length options. Real-time processing with async architecture and production monitoring.</p>
       </div>
     </td>
   </tr>
@@ -227,24 +226,23 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
         <p><strong>Retrieval-Augmented Fine-Tuning</strong> for automated code documentation. CPU-optimized training for accessibility.</p>
       </div>
     </td>
-<td width="50%">
-  <h3 align="center">✍️ AI Writing Prompt Generator</h3>
-  <div align="center">
-    <a href="https://github.com/ahmedrzakhan/ai-writing-prompt-generator" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=ai-writing-prompt-generator&theme=tokyonight&hide_border=true" alt="AI Writing Prompt Generator"/>
-    </a>
-    <br><br>
-    <p>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-    </p>
-    <p><strong>Creative Writing Assistant</strong> with customizable prompts across genres. Features prompt library, search/filter, and export functionality with fallback mechanisms.</p>
-  </div>
-</td>
-</tr>
+    <td width="50%">
+      <h3 align="center">✍️ AI Writing Prompt Generator</h3>
+      <div align="center">
+        <a href="https://github.com/ahmedrzakhan/ai-writing-prompt-generator" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=ai-writing-prompt-generator&theme=tokyonight&hide_border=true" alt="AI Writing Prompt Generator"/>
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+        </p>
+        <p><strong>Creative Writing Assistant</strong> with customizable prompts across genres. Features prompt library, search/filter, and export functionality with fallback mechanisms.</p>
+      </div>
+    </td>
+  </tr>
 </table>
-
 
 <p align="center">
   <a href="https://github.com/ahmedrzakhan?tab=repositories" target="_blank">
