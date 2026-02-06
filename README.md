@@ -46,7 +46,7 @@ const me: FullStackEngineer = {
   stack: {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     backend: ["Python", "FastAPI", "Node.js", "Go"],
-    ai: ["LangChain", "OpenAI", "ChromaDB", "HuggingFace"]
+    ai: ["LangChain", "Mastra.ai", "Mem0", "OpenAI", "ChromaDB"]
   }
 };
 
@@ -55,10 +55,11 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I'm up to
 
-- 🔭 Working on **AI-powered content recommendation systems** with advanced RAG architectures
-- 🎨 Building **responsive, accessible UI components** with React and Next.js
+- 🔭 Building **agentic AI workflows** with Mastra.ai and multi-agent orchestration
+- 🧠 Implementing **persistent memory systems** for intelligent agents using Mem0
+- 🎨 Creating **responsive, accessible UI components** with React and Next.js
 - 🌱 Deep diving into **RAFT methodology** and **Multi-modal AI systems**
-- 💡 Creating **semantic search engines** with intuitive user interfaces
+- 💡 Developing **semantic search engines** with advanced RAG architectures
 - 🎯 Mission: Crafting full-stack solutions that delight users and solve real problems
 - 📚 Reading: "Designing Data-Intensive Applications" & "Refactoring UI"
 
@@ -100,10 +101,13 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
 <summary><b>🤖 AI/ML Technologies</b></summary>
 <br>
 
+![Mastra.ai](https://img.shields.io/badge/Mastra.ai-6366F1?style=for-the-badge&logo=ai&logoColor=white)
+![Mem0](https://img.shields.io/badge/Mem0-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Claude-7B61FF?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -143,8 +147,8 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 </details>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects
 
 <table>
   <tr>
@@ -152,9 +156,14 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
       <h3 align="center">📊 Investment Research Memory Agent</h3>
       <div align="center">
         <a href="https://github.com/ahmedrzakhan/Investment-Research-Memory-Agent" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=Investment-Research-Memory-Agent&theme=tokyonight&hide_border=true" alt="Investment Research Memory Agent"/>
+          <img src="project-placeholder.svg" width="100%" alt="Investment Research Memory Agent"/>
         </a>
         <br><br>
+        <p>
+          <a href="https://github.com/ahmedrzakhan/Investment-Research-Memory-Agent">
+            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
         <p>
           <img src="https://img.shields.io/badge/Mastra.ai-6366F1?style=flat&logo=ai&logoColor=white" />
           <img src="https://img.shields.io/badge/Mem0-FF6B6B?style=flat&logo=database&logoColor=white" />
@@ -185,7 +194,7 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
       <h3 align="center">🔍 MCP-Agentic-Research</h3>
       <div align="center">
         <a href="https://github.com/ahmedrzakhan/MCP-Agentic-Research" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=MCP-Agentic-Research&theme=tokyonight&hide_border=true" alt="AI FAQ Bot"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=MCP-Agentic-Research&theme=tokyonight&hide_border=true" alt="MCP Agentic Research"/>
         </a>
         <br><br>
         <p>
@@ -245,7 +254,6 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
     </td>
   </tr>
 </table>
-
 
 <p align="center">
   <a href="https://github.com/ahmedrzakhan?tab=repositories" target="_blank">
