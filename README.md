@@ -145,8 +145,25 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
 </details>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects
 
+
 <table>
   <tr>
+    <td width="50%">
+      <h3 align="center">📊 Investment Research Memory Agent</h3>
+      <div align="center">
+        <a href="https://github.com/ahmedrzakhan/Investment-Research-Memory-Agent" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=Investment-Research-Memory-Agent&theme=tokyonight&hide_border=true" alt="Investment Research Memory Agent"/>
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/Mastra.ai-6366F1?style=flat&logo=ai&logoColor=white" />
+          <img src="https://img.shields.io/badge/Mem0-FF6B6B?style=flat&logo=database&logoColor=white" />
+          <img src="https://img.shields.io/badge/Multi--Agent-9333EA?style=flat&logo=ai&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        </p>
+        <p><strong>Investment research memory agent</strong> built with Mastra.ai and Mem0 featuring multi-agent orchestration, persistent vector memory, LLM-powered structured data extraction, and cross-sector pattern analysis.</p>
+      </div>
+    </td>
     <td width="50%">
       <h3 align="center">🏦 Agentic Loan Workflow</h3>
       <div align="center">
@@ -162,6 +179,8 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
         <p><strong>Autonomous loan processing agent</strong> built with Mastra.ai featuring dynamic routing, self-healing retries, human-in-the-loop escalation, and checkpoint-based state persistence.</p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🔍 MCP-Agentic-Research</h3>
       <div align="center">
@@ -177,8 +196,6 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
         <p><strong>Agentic research assistant powered by LangGraph</strong> and MCP (Model Context Protocol) that autonomously plans, investigates, and synthesizes research on any topic</p>
       </div>
     </td>
-    </tr>
-    <tr>
     <td width="50%">
       <h3 align="center">💬 AI FAQ Bot</h3>
       <div align="center">
@@ -191,9 +208,11 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
           <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=database&logoColor=white" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
         </p>
-        <p><strong>Multi-AI RAG system</strong> with LLM-powered responses and intelligent fallback using OpenAI and Google Gemini APIs, containerized with Docker and comprehensive LangSmith monitoring
+        <p><strong>Multi-AI RAG system</strong> with LLM-powered responses and intelligent fallback using OpenAI and Google Gemini APIs, containerized with Docker and comprehensive LangSmith monitoring</p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🤖 AI Content Recommender</h3>
       <div align="center">
@@ -209,8 +228,6 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
         <p><strong>Semantic Search Engine</strong> with vector embeddings for intelligent content discovery. Features real-time analytics and 80+ sample content across multiple domains.</p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🔍 RAFT Documentation Generator</h3>
       <div align="center">
@@ -226,23 +243,9 @@ console.log("Thanks for dropping by! Let's build something amazing together 🚀
         <p><strong>Retrieval-Augmented Fine-Tuning</strong> for automated code documentation. CPU-optimized training for accessibility.</p>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">✍️ AI Writing Prompt Generator</h3>
-      <div align="center">
-        <a href="https://github.com/ahmedrzakhan/ai-writing-prompt-generator" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedrzakhan&repo=ai-writing-prompt-generator&theme=tokyonight&hide_border=true" alt="AI Writing Prompt Generator"/>
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-        </p>
-        <p><strong>Creative Writing Assistant</strong> with customizable prompts across genres. Features prompt library, search/filter, and export functionality with fallback mechanisms.</p>
-      </div>
-    </td>
   </tr>
 </table>
+
 
 <p align="center">
   <a href="https://github.com/ahmedrzakhan?tab=repositories" target="_blank">
